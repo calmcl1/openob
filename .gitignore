@@ -9,3 +9,6 @@ dist/*
 dist
 .pypirc
 venv/
+
+# Pycharm stuff
+./idea
