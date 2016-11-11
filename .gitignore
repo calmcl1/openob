@@ -11,4 +11,4 @@ dist
 venv/
 
 # Pycharm stuff
-./idea
+./idea/
